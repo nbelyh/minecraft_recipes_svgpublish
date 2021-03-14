@@ -15,7 +15,7 @@ Some pictures are missing, but mostly should work
 1. Source data (imported into Visio diagram):
 
 - https://gist.github.com/Pablissimo/842d0d498a2a6a7f1d413a25c3184a74
-- https://github.com/undrfined/mc-icons/tree/master/pics
+- https://github.com/undrfined/mc-icons
 
 2. Primary Visio diagram is in this repository
 
