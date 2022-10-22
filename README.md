@@ -4,10 +4,9 @@ A demo of [SvgPublish](https://unmanagedvisio.com/products/svg-publish/) Visio e
 
 See live here (diagram is clickable zoom/pan/sidebar work)
 
-![https://nbelyh.github.io/minecraft_recipes_svgpublish/index2.html](http://files.rsdn.org/11344/2021_02_00_00_56_30_image.png)
+![https://nbelyh.github.io/minecraft_recipes_svgpublish/dist/minecraft_recipes_svgpublish1.html](http://files.rsdn.org/11344/2021_02_00_00_56_30_image.png)
 
-- https://nbelyh.github.io/minecraft_recipes_svgpublish/index.html (curves)
-- https://nbelyh.github.io/minecraft_recipes_svgpublish/index2.html (rectangular connectors)
+- https://nbelyh.github.io/minecraft_recipes_svgpublish/dist/minecraft_recipes_svgpublish1.html
 
 Basically illustrates using SvgPublish to show a diagram with custom HTML content in the elements. 
 Some pictures are missing, but mostly should work
