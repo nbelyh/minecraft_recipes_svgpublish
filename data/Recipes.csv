@@ -1,0 +1,125 @@
+Wooden Plank;1;Wood;./crafting_files/4946010_orig.png
+Stick;2;Wooden Plank;./crafting_files/6213005_orig.png
+Torch;1,1;Stick,Coal;./crafting_files/9004605_orig.png
+Crafting Table;4;Wooden Plank;./crafting_files/2435676_orig.png
+Furnace;8;Cobblestone;./crafting_files/9487215_orig.png
+Chest;8;Wooden Plank;./crafting_files/4252421_orig.png
+Wood Pickaxe;2,3;Stick,Wooden Plank;./crafting_files/9938491.png
+Stone Pickaxe;2,3;Stick,Stone Block;./crafting_files/1083223_orig.png
+Iron Pickaxe;2,3;Stick,Iron Ingot;./crafting_files/3330223_orig.png
+Gold Pickaxe;2,3;Stick,Gold Ingot;./crafting_files/7373333_orig.png
+Diamond Pickaxe;2,3;Stick,Diamond;./crafting_files/3221448_orig.png
+Wood Shovel;2,1;Stick,Wooden Plank;./crafting_files/8539427.png
+Stone Shovel;2,1;Stick,Stone Block;./crafting_files/9931443_orig.png
+Iron Shovel;2,1;Stick,Iron Ingot;./crafting_files/8817240_orig.png
+Gold Shovel;2,1;Stick,Gold Ingot;./crafting_files/587896_orig.png
+Diamond Shovel;2,1;Stick,Diamond;./crafting_files/4470550_orig.png
+Wood Axe;2,3;Stick,Wooden Plank;./crafting_files/7110733.png
+Stone Axe;2,3;Stick,Stone Block;./crafting_files/8412948_orig.png
+Iron Axe;2,3;Stick,Iron Ingot;./crafting_files/2645851_orig.png
+Gold Axe;2,3;Stick,Gold Ingot;./crafting_files/7734238_orig.png
+Diamond Axe;2,3;Stick,Diamond;./crafting_files/9770931_orig.png
+Wood Hoe;2,2;Stick,Wooden Plank;./crafting_files/9333067.png
+Stone Hoe;2,2;Stick,Stone Block;./crafting_files/7105352_orig.png
+Iron Hoe;2,2;Stick,Iron Ingot;./crafting_files/8534362_orig.png
+Gold Hoe;2,2;Stick,Gold Ingot;./crafting_files/3970014_orig.png
+Diamond Hoe;2,2;Stick,Diamond;./crafting_files/903943_orig.png
+Bucket;3;Iron Ingot;./crafting_files/9387922_orig.png
+Flint and Steel;1,1;Iron Ingot,Flint;./crafting_files/810074_orig.png
+Fire Charge;1,1,1;Blaze Powder,Coal,Gunpowder;./crafting_files/5004132_orig.png
+Fishing Rod;3,2;Stick,String;./crafting_files/6349060_orig.png
+Carrot on a Stick;1,1;Fishing Rod,Carrot;./crafting_files/6148816.png
+Compass;4,1;Iron Ingot,Redstone Dust;./crafting_files/986782_orig.png
+Clock;4,1;Gold Ingot,Redstone Dust;./crafting_files/3064912_orig.png
+Map;8,1;Paper,Compass;./crafting_files/5620717_orig.jpg
+Shear;2;Iron Ingot;./crafting_files/6147438_orig.png
+Wood Sword;1,2;Stick,Wooden Plank;./crafting_files/415249.png
+Stone Sword;1,2;Stick,Stone Block;./crafting_files/7005711_orig.png
+Iron Sword;1,2;Stick,Iron Ingot;./crafting_files/7998456_orig.png
+Gold Sword;1,2;Stick,Gold Ingot;./crafting_files/2991382_orig.png
+Diamond Sword;1,2;Stick,Diamond;./crafting_files/8536648_orig.png
+Bow;3,3;Stick,String;./crafting_files/8651615_orig.png
+Arrow;1,1,1;Flint,Stick,Feather;./crafting_files/1659210_orig.png
+Leather Helmet;5;Leather;./crafting_files/1410699.png
+Iron Helmet;5;Iron Ingot;./crafting_files/2070364_orig.png
+Gold Helmet;5;Gold Ingot;./crafting_files/3635866_orig.png
+Diamond Helmet;5;Diamond;./crafting_files/9688349_orig.png
+Leather Chestplate;8;Leather;./crafting_files/2373844.png
+Iron Chestplate;8;Iron Ingot;./crafting_files/3901570_orig.png
+Gold Chestplate;8;Gold Ingot;./crafting_files/2087989_orig.png
+Diamond Chestplate;8;Diamond;./crafting_files/6762457_orig.png
+Leather Legging;7;Leather;./crafting_files/2498843.png
+Iron Legging;7;Iron Ingot;./crafting_files/792248_orig.png
+Gold Legging;7;Gold Ingot;./crafting_files/7113079_orig.png
+Diamond Legging;7;Diamond;./crafting_files/9486368_orig.png
+Leather Boot;4;Leather;./crafting_files/6454965.png
+Iron Boot;4;Iron Ingot;./crafting_files/2086956_orig.png
+Gold Boot;4;Gold Ingot;./crafting_files/7325937_orig.png
+Diamond Boot;4;Diamond;./crafting_files/8859975_orig.png
+Iron Block;9;Iron Ingot;./crafting_files/5891307_orig.png
+Gold Block;9;Gold Ingot;./crafting_files/4851674_orig.png
+Diamond Block;9;Diamond;./crafting_files/6200558_orig.png
+Emerald Block;9;Emerald;./crafting_files/2243224.png
+Lapis Lazuli block;9;Lapis Lazuli;./crafting_files/2675410_orig.png
+Glowstone;4;Glowstone Dust;./crafting_files/1423620_orig.png
+Clay Block;4;Clay Ball;./crafting_files/850273_orig.png
+Brick;4;Clay Brick;./crafting_files/1670334_orig.png
+Stone Brick;4;Stone Block;./crafting_files/7528298_orig.png
+Sandstone;4;Sand;./crafting_files/612599_orig.png
+Smooth Sandstone;4;Sandstone;./crafting_files/5170217_orig.png
+Decorative Sandstone;2;Sandstone Slab;./crafting_files/1275250_orig.png
+Snow Block;4;Snowball;./crafting_files/4373344_orig.png
+Wool Block;4;String;./crafting_files/6942881_orig.png
+Wooden Slab;6;Wooden Plank;./crafting_files/3744054.png
+Stone Slab;3;Stone;./crafting_files/6268677.png
+Sandstone Slab;3;Sandstone;./crafting_files/6166481_orig.png
+Stone Brick Slab;3;Stone Brick;./crafting_files/7974373_orig.png
+Brick Slab;3;Brick;./crafting_files/2873415_orig.png
+Cobblestone Slab;3;Cobblestone;./crafting_files/2353879_orig.png
+Wood Stair;6;Wooden Plank;./crafting_files/1265828.png
+Cobblestone Stair;6;Cobblestone;./crafting_files/7199427_orig.png
+Wood Door;6;Wooden Plank;./crafting_files/3467558.png
+Iron Door;6;Iron Ingot;./crafting_files/5823490_orig.png
+Trapdoor;6;Wooden Plank;./crafting_files/1482565_orig.png
+Ladder;7;Stick;./crafting_files/7595939_orig.png
+Fence;6;Stick;./crafting_files/9208428_orig.png
+Fence Gate;4,2;Stick,Wooden Slab;./crafting_files/8020741_orig.png
+Nether Brick Fence;6;Nether Brick;./crafting_files/596393_orig.png
+Cobblestone Wall;6;Cobblestone;./crafting_files/9534469.png
+Mossy Cobblestone Wall;6;Mossy Cobblestone;./crafting_files/3557540_orig.png
+Iron Bar;6;Iron Ingot;./crafting_files/2108689_orig.png
+Glass Pane;6;Glass;./crafting_files/8288478_orig.png
+Bread;3;Wheat;./crafting_files/5199141_orig.png
+Mushroom Stew;1,1,1;Red Mushroom,Brown Mushroom,Bowl;./crafting_files/1436991_orig.png
+Cake;3,2,1,3;Milk,Sugar,Egg,Wheat;./crafting_files/8209703_orig.png
+Cookie;2,1;Wheat,Cocoa Bean;./crafting_files/68785_orig.png
+Pumpkin Pie;1,1,1;Pumpkin,Sugar,Egg;./crafting_files/3412393_orig.png
+Golden Carrot;8,1;Gold Nugget,Carrot;./crafting_files/3138359_orig.png
+Golden Apple;8,1;Gold Nugget,Apple;./crafting_files/2048274_orig.png
+Enchanted Golden Apple;8,1;Gold Block,Apple;./crafting_files/878402_orig.png
+Melon;9;Melon Slice;./crafting_files/1119119_orig.png
+Paper;3;Sugar Cane;./crafting_files/4808751_orig.png
+Book;3,1;Paper,Leather;./crafting_files/9269454_orig.png
+Book and Quill;1,1,1;Book,Feather,Ink Sac;./crafting_files/8422235_orig.png
+Sign;6,1;Wooden Plank,Stick;./crafting_files/7045425_orig.png
+Painting;8,1;Stick,Wool;./crafting_files/8055166_orig.png
+Item Frame;8,1;Stick,Leather;./crafting_files/3328203_orig.png
+Flower Pot;3;Brick;./crafting_files/7646317_orig.png
+Bowl;3;Wooden Plank;./crafting_files/3189344_orig.png
+Sugar;1;Sugar Cane;./crafting_files/8574276_orig.png
+Pumpkin Seed;1;Pumpkin;./crafting_files/2860169_orig.png
+Melon Seed;1;Melon Slice;./crafting_files/22322_orig.png
+Glistening Melon;1,1;Melon Slice,Gold Nugget;./crafting_files/426168_orig.png
+Gold Ingot;9;Gold Nugget;./crafting_files/8622510_orig.png
+Bed;3,3;Wool,Wooden Plank;./crafting_files/1717671_orig.png
+Beacon;5,1,3;Glass,Nether Star,Obsidian;./crafting_files/5292603_orig.png
+Cauldron;7;Iron Ingot;./crafting_files/4956417_orig.png
+Enchantment Table;1,2,4;Book,Diamond,Obsidian;./crafting_files/891477_orig.png
+Ender Chest;8,1;Obsidian,Eye Of Ender;./crafting_files/737101_orig.png
+Anvil;3,4;Iron Block,Iron Ingot;./crafting_files/9794456_orig.png
+Blaze Powder;1;Blaze Rod;./crafting_files/4726401_orig.png
+Brewing Stand;1,3;Blaze Rod,Cobblestone;./crafting_files/4214147_orig.png
+Eye of Ender;1,1;Blaze Powder,Ender Pearl;./crafting_files/2798801_orig.png
+Fermented Spider Eye;1,1,1;Spider Eye,Brown Mushroom,Sugar;./crafting_files/3620730_orig.png
+Bottle;3;Glass;./crafting_files/9247905_orig.png
+Magma Cream;1,1;Slime Ball,Blaze Powder;./crafting_files/8739135_orig.png
