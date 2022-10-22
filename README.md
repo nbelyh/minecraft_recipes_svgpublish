@@ -4,7 +4,7 @@ A demo of [SvgPublish](https://unmanagedvisio.com/products/svg-publish/) Visio e
 
 See live here (diagram is clickable zoom/pan/sidebar work)
 
-![https://nbelyh.github.io/minecraft_recipes_svgpublish/dist/minecraft_recipes_svgpublish1.html](http://files.rsdn.org/11344/2021_02_00_00_56_30_image.png)
+[![preview](http://files.rsdn.org/11344/2021_02_00_00_56_30_image.png)](https://nbelyh.github.io/minecraft_recipes_svgpublish/dist/minecraft_recipes_svgpublish1.html)
 
 - https://nbelyh.github.io/minecraft_recipes_svgpublish/dist/minecraft_recipes_svgpublish1.html
 
